@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Tanya !👋
 
 
 - 🔭 Experiences : Full stack intern at Adani Power Ltd.  
