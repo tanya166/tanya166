@@ -5,9 +5,9 @@
 
 - 🌱 Project : Carbon Calculator
 
-- ⚡ Link for my project https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view
+- ⚡ [Link for my project](https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view)
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view)
 
 - 📫 How to reach me: tanyabhardwaj59@gmail.com
 
@@ -25,5 +25,5 @@ Languages and tools :
 
 --> AWS  
 
-Connect with me: https://www.linkedin.com/in/tanya-bhardwaj-9a2449244/
+Connect with me on [Linkedin](https://www.linkedin.com/in/tanya-bhardwaj-9a2449244/)
 
