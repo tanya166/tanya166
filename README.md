@@ -5,7 +5,7 @@
 
 - 🌱 Project : Carbon Calculator
 
-- ⚡ [Link for my project](https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view)
+- ⚡ [Link for my project](https://github.com/tanya166/carbon-calculator)
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view)
 
