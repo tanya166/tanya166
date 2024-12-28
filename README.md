@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**tanya166/tanya166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Experiences : Full stack intern at Adani Power Ltd.  
+- 🌱 Project : Carbon Calculator
+- ⚡ Link for my project https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view
+- 📄 Know about my experiences https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view
+- 📫 How to reach me: tanyabhardwaj59@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and tools : 
+
+--> C,C++,Java,Python
+--> HTML,CSS,Javascript,ReactJs
+--> NodeJs
+--> MySQL
+--> Figma
+--> AWS
+
+Connect with me: https://www.linkedin.com/in/tanya-bhardwaj-9a2449244/
+
