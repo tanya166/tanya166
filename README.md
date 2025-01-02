@@ -3,9 +3,10 @@
 
 - 🔭 Experiences : Full stack intern at Adani Power Ltd.  
 
-- 🌱 Project : Carbon Calculator
+- 🌱 Projects : Carbon Calculator , Rail madad
 
-- ⚡ [Link for my project](https://github.com/tanya166/carbon-calculator)
+- ⚡ [Project 1 ](https://github.com/tanya166/carbon-calculator)  
+- ⚡ [Project 2](https://github.com/tanya166/Rail-madad-frontend-)
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view)
 
