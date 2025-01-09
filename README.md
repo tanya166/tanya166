@@ -6,7 +6,7 @@
 - 🌱 Projects : Carbon Calculator , Rail madad
 
 - ⚡ [Project 1 ](https://github.com/tanya166/carbon-calculator)  
-- ⚡ [Project 2](https://github.com/tanya166/Rail-madad-frontend-)
+- ⚡ [Project 2](https://github.com/tanya166/Rail-madad)
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view)
 
