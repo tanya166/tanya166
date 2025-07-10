@@ -3,12 +3,12 @@
 
 - 🔭 Experiences : Full stack intern at Adani Power Ltd.  
 
-- 🌱 Projects : Carbon Calculator , Rail madad
+- 🌱 Projects : Carbon Calculator , Rail madad , fortify , privacy preserving vrf
 
 - ⚡ [Project 1 ](https://github.com/tanya166/carbon-calculator)  
 - ⚡ [Project 2](https://github.com/tanya166/Rail-madad)
-
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1mAi-XxjAAeeHTFgqji2ePouh3W2dFNtL/view)
+- ⚡ [Project 3](https://github.com/cjaradhye/fortify/tree/main)
+- ⚡ [Project 4](https://github.com/tanya166/privacy-preserving-vrf)
 
 - 📫 How to reach me: tanyabhardwaj59@gmail.com
 
@@ -18,13 +18,11 @@ Languages and tools :
 
 --> HTML , CSS , Javascript , ReactJS  
 
---> NodeJs  
+--> NodeJs  , Express
 
 --> MSQL  
 
 --> Figma  
-
---> AWS  
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/tanya-bhardwaj-9a2449244/)
 
