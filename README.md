@@ -7,7 +7,7 @@
 
 - ⚡ [Project 1 ](https://github.com/tanya166/carbon-calculator)  
 - ⚡ [Project 2](https://github.com/tanya166/Rail-madad)
-- ⚡ [Project 3](https://github.com/cjaradhye/fortify/tree/main)
+- ⚡ [Project 3](https://github.com/tanya166/Fortify)
 - ⚡ [Project 4](https://github.com/tanya166/privacy-preserving-vrf)
 
 - 📫 How to reach me: tanyabhardwaj59@gmail.com
@@ -18,11 +18,11 @@ Languages and tools :
 
 --> HTML , CSS , Javascript , ReactJS  
 
---> NodeJs  , Express
+--> NodeJs  , Express 
 
---> MSQL  
+--> MSQL , PostgreSql
 
---> Figma  
+--> Figma , Docker
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/tanya-bhardwaj-9a2449244/)
 
