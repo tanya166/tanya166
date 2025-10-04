@@ -14,11 +14,11 @@
 
 Languages and tools : 
  
---> C , C++ , Python , Java
+--> C++ , Python , Java
 
---> HTML , CSS , Javascript , ReactJS  
+--> HTML , CSS , Javascript , ReactJS , Pandas , Numpy
 
---> NodeJs  , Express 
+--> NodeJs  , Express , Solidity , Ether.js
 
 --> MSQL , PostgreSql
 
