@@ -16,7 +16,7 @@ Languages and tools :
  
 --> C++ , Python , Java
 
---> HTML , CSS , Javascript , ReactJS , Pandas , Numpy
+--> HTML , CSS , Javascript , ReactJS , React Native
 
 --> NodeJs  , Express , Solidity , Ether.js
 
